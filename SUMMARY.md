@@ -6,3 +6,4 @@
   * [📝 Правила сервера](rules.md)
 * [🛠️ Механики сервера](mechanics/README.md)
   * [🏳️ Приваты и регионы](mechanics/claim-land.md)
+  * [🍺 Система Пивоварения (Brewery)](mechanics/sistema-pivovareniya-brewery.md)
